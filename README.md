@@ -19,4 +19,11 @@ My final step was getting my project running through the Google Compute Engine s
 
 
 # Closing thoughts
-Overall, this project was a lot of fun, and I'm glad I got to brush up on some SQL and started learning Docker. As previously mentioned, to improvements on this project are to add foreign keys and constraints to the tables, clean up redundant code by adding more functions, specifically error handling, and further my experience and learning of Docker.
+Overall, this project was a lot of fun, and I'm glad I got to brush up on some SQL and started learning Docker. As previously mentioned, to improvements on this project are to add foreign keys and constraints to the tables, clean up redundant code by adding more functions, specifically error handling, and further my experience and learning of Docker. Below is a screenshot of the results of Postman tests.
+
+![image](https://github.com/user-attachments/assets/6347d3c5-38c9-46f3-a01b-bb77ae1c24e7)
+
+![image](https://github.com/user-attachments/assets/b0cbae74-d2a7-4b98-abfd-aec043d0ed07)
+
+![image](https://github.com/user-attachments/assets/38b819b3-cf70-4449-8339-df26e70e5b5f)
+
